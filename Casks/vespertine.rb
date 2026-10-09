@@ -1,6 +1,6 @@
 cask "vespertine" do
-  version "0.9.0"
-  sha256 "d6a01c6ced5d9de69b473ffbb416890b4dfd668075d67f06ae166d653d241c15"
+  version "0.10.0"
+  sha256 "20c39e76f81f2a43b4cede026ff974726c1ba29fb45fdd4a65fab894d27f986b"
 
   url "https://github.com/szeremeta1/Vespertine/releases/download/v#{version}/Vespertine-#{version}.dmg"
   name "Vespertine"
@@ -13,7 +13,7 @@ cask "vespertine" do
   end
 
   auto_updates true
-  depends_on macos: :tahoe
+  depends_on macos: ">= :sonoma"
 
   app "Vespertine.app"
 
