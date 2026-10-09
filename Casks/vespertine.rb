@@ -5,7 +5,7 @@ cask "vespertine" do
   url "https://github.com/szeremeta1/Vespertine/releases/download/v#{version}/Vespertine-#{version}.dmg"
   name "Vespertine"
   desc "Bit-perfect hi-res music player"
-  homepage "https://szeremeta1.github.io/Vespertine/"
+  homepage "https://vespertineapp.com/"
 
   livecheck do
     url :url
