@@ -1,11 +1,11 @@
 cask "vespertine" do
-  version "0.11.2"
-  sha256 "904a06806a792ac6befd043301b8ffd76fa80967a4092c8c5ff3ed5fc81af9b2"
+  version "0.11.3"
+  sha256 "9e552c22fb58bf44a5cc1410fb772405b61a3eb64107a08aa039053e9d8abdfd"
 
   url "https://github.com/szeremeta1/Vespertine/releases/download/v#{version}/Vespertine-#{version}.dmg"
   name "Vespertine"
   desc "Bit-perfect hi-res music player"
-  homepage "https://szeremeta1.github.io/Vespertine/"
+  homepage "https://vespertineapp.com/"
 
   livecheck do
     url :url
