@@ -1,6 +1,6 @@
 cask "vespertine" do
-  version "1.1.3"
-  sha256 "b0a2b2df9d9fd24cfd0421b94ab9a26d1e10a574f4c2577e04c99c0d58d4f4f2"
+  version "1.1.4"
+  sha256 "086a83fafc9a00bf8a725bc898772111393795519e7c85d48089dfcf9fcddd6f"
 
   url "https://github.com/szeremeta1/Vespertine/releases/download/v#{version}/Vespertine-#{version}.dmg"
   name "Vespertine"
