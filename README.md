@@ -1,6 +1,6 @@
 # szeremeta1/tap
 
-Homebrew casks for [Vespertine](https://github.com/szeremeta1/Vespertine), a free, open-source, bit-perfect music player for Mac.
+Homebrew casks for [Vespertine](https://github.com/vespertineapp/Vespertine), a free, open-source, bit-perfect music player for Mac.
 
 ```bash
 brew install --cask szeremeta1/tap/vespertine
